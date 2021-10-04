@@ -1,12 +1,25 @@
-import React from 'react';
-import { useParams } from 'react-router';
+import React, { useEffect, useState } from 'react';
+import CourseSingle from '../CourseSingle/CourseSingle';
+import './Services.css';
 
 const Services = (props) => {
-    const params = useParams();
-    console.log('Services', params);
+    const [courses, setCourses] = useState([]);
+
+    useEffect(() => {
+        fetch('./COURSE_DESCRIPTION.json')
+            .then(res => res.json())
+            .then(data => setCourses(data));
+    }, []);
+
+    console.log(courses);
     return (
-        <div>
-            <h2>Services</h2>
+        <div className="all-courses-container">
+            <h1>All Our Courses</h1>
+            <div className="all-courses">
+                {courses.map(course => (
+                    <CourseSingle course={course} key={course.id} />
+                ))}
+            </div>
         </div>
     );
 };

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import MentorSingle from './MentorSingle/MentorSingle';
 import './Mentors.css';
+import MentorSingle from '../MentorSingle/MentorSingle';
 
 const Mentors = () => {
     const [mentors, setMentors] = useState([]);
@@ -13,7 +13,7 @@ const Mentors = () => {
     return (
         <div className='mentorship'>
             <h1>All Our Mentors</h1>
-            <div className='mentors-container'>
+            <div className='mentors-container'>                         
             {mentors.map(mentor => <MentorSingle mentor={mentor} key={mentor.id} /> )}
         </div>
         </div>

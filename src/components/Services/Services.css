@@ -1,0 +1,20 @@
+.all-courses-container {
+    background-color: ghostwhite;
+    padding-bottom: 50px;
+}
+
+.all-courses-container h1 {
+    color: #2d4a6e;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+.all-courses {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 80%;
+    margin: 0 auto;
+    gap: 50px;
+}

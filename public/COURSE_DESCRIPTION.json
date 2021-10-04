@@ -4,7 +4,7 @@
        "mentor":"Rayshell Weathers",
        "courseDuration":23.6,
        "courseFee": 12000,
-       "imgae": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3sbca3K91O70e5EPNwYekBZC57l2PNS-BtxYrNDIEAxJmpK-TQzc_UeWjjP1SSUVNvi4&usqp=CAU",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3sbca3K91O70e5EPNwYekBZC57l2PNS-BtxYrNDIEAxJmpK-TQzc_UeWjjP1SSUVNvi4&usqp=CAU",
        "courseTitle":"English For Career Development",
        "courseDescription":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
        "courseObjective":"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
@@ -14,7 +14,7 @@
        "mentor":"Thaine Finnie",
        "courseDuration":34.4,
        "courseFee": 10000,
-       "imgae": "https://t4.ftcdn.net/jpg/03/77/94/01/360_F_377940157_HHHEVY9z4XIBll4dAwgPc5SkvHXxEhvM.jpg",
+       "image": "https://t4.ftcdn.net/jpg/03/77/94/01/360_F_377940157_HHHEVY9z4XIBll4dAwgPc5SkvHXxEhvM.jpg",
        "courseTitle":"Improve Your English Communication Skills",
        "courseDescription":"Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
        "courseObjective":"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
@@ -24,7 +24,7 @@
        "mentor":"Iggie Calderhead",
        "courseDuration":37.9,
        "courseFee": 11000,
-       "imgae": "https://lh3.googleusercontent.com/proxy/EfYnPM-8t74Nvca6rvOOMtegnLRrBO0kqHyGmQl79GoIdLotXjxzRonh01roia2LY0ZlNsVExXZYlF-ZPDoLWgtLwtjjWw0d5f261CbcUodOy8WUlKta-rqVCv0X7-xEigpnDc53dTL2GrdPm4j6slrnZGD3gXx45kogHzJlOhsmh0Pk-C57r2Qdfm77Adrmtfe_at1VM4iI839XiEdYMoW-aRlBfFIRZg",
+       "image": "https://pbs.twimg.com/media/Dh_vke5W4AA9EHM.jpg",
        "courseTitle":"Speak English Professionally: In person Online & On the Phone",
        "courseDescription":"Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
        "courseObjective":"In quis justo. Maecenas rhoncus aliquam lacus."
@@ -34,7 +34,7 @@
        "mentor":"Elinor Dike",
        "courseDuration":34.5,
        "courseFee": 10000,
-       "imgae": "http://www.oasisacademyleesbrook.org/uploaded/Leesbrook/News_and_Events/News_Images/How-to-Learn-Vocabulary-in-English.jpg",
+       "image": "http://www.oasisacademyleesbrook.org/uploaded/Leesbrook/News_and_Events/News_Images/How-to-Learn-Vocabulary-in-English.jpg",
        "courseTitle":"Write Professional Emails in English",
        "courseDescription":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
        "courseObjective":"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
@@ -44,7 +44,7 @@
        "mentor":"Valentia Pickburn",
        "courseDuration":21.8,
        "courseFee": 12000,
-       "imgae": "https://mylargebox.com/wp-content/uploads/2020/03/learn-english.jpg",
+       "image": "https://mylargebox.com/wp-content/uploads/2020/03/learn-english.jpg",
        "courseTitle":"Grammar and Pronunciation",
        "courseDescription":"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
        "courseObjective":"Suspendisse accumsan tortor quis turpis. Sed ante."
@@ -54,7 +54,7 @@
        "mentor":"Stace Giabuzzi",
        "courseDuration":22.3,
        "courseFee": 11000,
-       "imgae": "https://pbs.twimg.com/media/Dh_vke5W4AA9EHM.jpg",
+       "image": "https://pbs.twimg.com/media/Dh_vke5W4AA9EHM.jpg",
        "courseTitle":"English for Business and Enterpreneurship",
        "courseDescription":"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
        "courseObjective":"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
@@ -64,7 +64,7 @@
        "mentor":"Moria Newing",
        "courseDuration":35.7,
        "courseFee": 8500,
-       "imgae": "https://thumbs.dreamstime.com/z/english-british-england-language-education-concept-58368527.jpg",
+       "image": "https://thumbs.dreamstime.com/z/english-british-england-language-education-concept-58368527.jpg",
        "courseTitle":"Learn to Write English Composition",
        "courseDescription":"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
        "courseObjective":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue."
@@ -74,7 +74,7 @@
        "mentor":"Maxwell Ximenez",
        "courseDuration":23.1,
        "courseFee": 7000,
-       "imgae": "https://c8.alamy.com/comp/H93JEG/english-british-england-language-education-concept-H93JEG.jpg",
+       "image": "https://c8.alamy.com/comp/H93JEG/english-british-england-language-education-concept-H93JEG.jpg",
        "courseTitle":"Business English Communication",
        "courseDescription":"Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
        "courseObjective":"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
@@ -84,7 +84,7 @@
        "mentor":"Learn English: Intermediate Grammar",
        "courseDuration":29.9,
        "courseFee": 11000,
-       "imgae": "http://berita.smk-mapen.com/uploads/images/image_750x_5e5cb82636778.jpg",
+       "image": "http://berita.smk-mapen.com/uploads/images/image_750x_5e5cb82636778.jpg",
        "courseTitle":"Donec posuere metus vitae ipsum.",
        "courseDescription":"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
        "courseObjective":"Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
@@ -94,7 +94,7 @@
        "mentor":"Tricky American English Pronunciation",
        "courseDuration":30.0,
        "courseFee": 9000,
-       "imgae": "https://whataftercollege.com/wp-content/uploads/2019/08/eng.png",
+       "image": "https://whataftercollege.com/wp-content/uploads/2019/08/eng.png",
        "courseTitle":"Nulla ut erat id mauris vulputate elementum.",
        "courseDescription":"Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl.",
        "courseObjective":"Nunc rhoncus dui vel sem. Sed sagittis."

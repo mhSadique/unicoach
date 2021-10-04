@@ -7,6 +7,7 @@
     grid-template-rows: max-content;
     justify-content: center;
     gap: 30px;
+    margin-bottom: 40px;
 }
 
 .mentorship h1 {

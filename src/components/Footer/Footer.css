@@ -1,0 +1,15 @@
+.contact-us-form {
+    margin: 0 auto;
+    margin-bottom: 0;
+    background-color: #e9f0f8;
+    padding: 100px 170px;
+}
+
+.contact-us {
+    text-align: center;
+    color: rgba(45, 74, 110, 1);
+    background-color: #e9f0f8;
+    margin-bottom: 0;
+    padding-top: 40px;
+    font-size: 40px;
+}
