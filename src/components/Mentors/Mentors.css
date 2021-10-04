@@ -1,0 +1,18 @@
+.mentors-container {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: max-content;
+    justify-content: center;
+    gap: 30px;
+}
+
+.mentorship h1 {
+    color: #2d4a6e;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
